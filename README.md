@@ -18,5 +18,13 @@ A simple to-do list app made in React that allows users to add and remove tasks.
 2. Run `npm install`
 3. Run `npm start`
 
+
+## OUTPUT OF THIS CODE 
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ac15ec0d-8f58-4ea0-b23a-cb417d9a249d" />
+
+
+
+
 ##  Author
 Made with 💻 by Ishan-246
