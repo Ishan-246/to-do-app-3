@@ -21,7 +21,31 @@ A simple to-do list app made in React that allows users to add and remove tasks.
 
 ## OUTPUT OF THIS CODE 
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ac15ec0d-8f58-4ea0-b23a-cb417d9a249d" />
+<img width="588" height="646" alt="Screenshot (103)" src="https://github.com/user-attachments/assets/80e47b96-ae13-4385-873a-d92e1b7c6443" />
+
+
+
+
+## WHAT I LEARNED FROM THIS CODE 
+
+- missed on writing a important line [  placeholder="ENTER A TASK" ]
+
+- did some mistake in syntax
+
+
+
+ ## EXPLATION OF CODE 
+
+
+-a)  function TodoApp()     :     defines a React component named TodoApp.
+
+
+
+-b) const [task, setTask] = useState("");    :   creates a state variable called task (initially empty). setTask updates this variable.
+
+
+
+-c)const [list, setList] = useState([]);     :     creates a state variable called list (initially an empty array). setList updates this list.
 
 
 
