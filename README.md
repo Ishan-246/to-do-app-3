@@ -42,12 +42,14 @@ A simple to-do list app made in React that allows users to add and remove tasks.
 
 
 
--b)  const [task, setTask] = useState("");    :   creates a state variable called task (initially empty). setTask updates this variable.
+-b)  const [task, setTask] = useState("");    :   creates a state variable called task (initially empty).
+ setTask updates this variable.
 
 
 
 
--c)  const [list, setList] = useState([]);     :     creates a state variable called list (initially an empty array). setList updates this list.
+-c)  const [list, setList] = useState([]);     :     creates a state variable called list (initially an empty array).
+ setList updates this list.
 
 
 
