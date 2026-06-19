@@ -108,4 +108,4 @@ A simple to-do list app made in React that allows users to add and remove tasks.
 
 
 ##  Author
-Made with 💻 by Ishan-246
+Made with by Ishan-246
